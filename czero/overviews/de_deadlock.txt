@@ -1,0 +1,14 @@
+// overview description file for de_deadlock.bsp
+
+global 
+{
+	ZOOM	1.61
+	ORIGIN	-418.50 	228.50	-1
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_deadlock.bmp"
+	HEIGHT	-1
+}

@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.45
+	ORIGIN	188	-256	-417
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_neighborhood.bmp"
+	HEIGHT	-417
+}
